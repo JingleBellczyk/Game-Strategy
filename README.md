@@ -1,5 +1,5 @@
-[ENG]
 # Game-Strategy
+[ENG]
 ### Game implementing Strategy design pattern
 - In the game, players can create characters by choosing armor and weapons for them.
 - Armors and weapons have different statistics depending on the implemented interface (a pattern element).
@@ -8,9 +8,7 @@
 - User interaction takes place in the terminal.
 
 [PL]
-# Game-Strategy
 ### Gra implementująca wzorzec projektowy Strategia
-
  - W grze można tworzyć postacie, wybierając dla nich pancerz i broń. 
  - Pancerze i bronie mają różne statystki w zależności od **implementowanego interfejsu**(element wzorca). 
  - Można przeprowadzać walki między postaciami
