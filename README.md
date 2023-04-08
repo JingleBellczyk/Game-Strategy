@@ -1,3 +1,13 @@
+[ENG]
+# Game-Strategy
+### Game implementing Strategy design pattern
+- In the game, players can create characters by choosing armor and weapons for them.
+- Armors and weapons have different statistics depending on the implemented interface (a pattern element).
+- Players can engage in battles between characters.
+- Players can display a character's weapon.
+- User interaction takes place in the terminal.
+
+[PL]
 # Game-Strategy
 ### Gra implementująca wzorzec projektowy Strategia
 
